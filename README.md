@@ -113,3 +113,6 @@ data_from_json = StarrailInfoParsed.parse_raw(json_data)
 print(type(data_from_pickle))
 print(type(data_from_json))
 ```
+
+
+选择 Alpha 分支
